@@ -6,3 +6,6 @@ The staging area is an intermediate between the working directory and repository
 
 How can you use the staging area to make sure you have one commit per logical change?
 In the staging area you can review the differences between itself, the last commit, and the working directory. This lets you make sure that you are changing one thing at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are helpful when you want to try out something new, like adding a new difficulty or adding a new language to the game. They help because you can try (sometimes risky things) without harming your original project.
