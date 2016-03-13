@@ -3,3 +3,6 @@ When you initialize a repository, git creates a '.git' file in that directory. Y
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is an intermediate between the working directory and repository. It lets you check and make sure you know what you are committing before you do it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+In the staging area you can review the differences between itself, the last commit, and the working directory. This lets you make sure that you are changing one thing at a time.
