@@ -15,3 +15,6 @@ It's really important to know which commits have which parents. By making a diag
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches together combines the changes that were added in the two branches. It's represented that way on the diagram because the two branches are coming together to form one branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging removes any chance of user error when combining them. However, Git isn't really that smart, so it doesn't know how to combine the files when they have conflicts. It's really easy to find these and edit them, though.
