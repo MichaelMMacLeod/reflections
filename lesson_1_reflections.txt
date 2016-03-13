@@ -1,0 +1,25 @@
+In this lesson I used the 'diff' command to find bugs in code.
+It was really helpful. Doing it by hand was incredibly hard.
+I mostly had trouble setting up sublime to run from Git Bash though...
+The '1' character and 'l' character look way too similar.
+I kept trying to run 'sub1' when I really should have been running 'subl'
+
+'How could having easy access to the entire history of a file make you a more efficient programmer in the long term?'
+If you have the entire history of a file, it can help you find errors.
+If you want to undo a large change, it's incredibly easy with proper version control.
+
+'What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?'
+Pros: You can choose when to commit. This makes sure your history is arranged in a logical order. 
+Cons: Power outages would ruin you, User error may occur.
+
+'Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?'
+I think that it's because those systems are designed for different things. In programming one file can greatly affect other files. When writing (Google Docs), one file doesn't really affect the others so much.	
+
+'How can you use the commands git log and git diff to view the history of files?'
+'git log' gives you the history of the project in the repository. 'git diff' gives you the specific changes between two indexes. 
+
+How might using version control make you more confident to make changes that could break something?
+Because you can easily revert those changes. (Like, super easily).
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I'm not really sure what I'm going to use it for. I'm probably going to use it for debugging my java code. 
