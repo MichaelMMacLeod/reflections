@@ -12,3 +12,6 @@ Branches are helpful when you want to try out something new, like adding a new d
 
 How do the diagrams help you visualize the branch structure?
 It's really important to know which commits have which parents. By making a diagram, the inheritance becomes clear.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together combines the changes that were added in the two branches. It's represented that way on the diagram because the two branches are coming together to form one branch.
