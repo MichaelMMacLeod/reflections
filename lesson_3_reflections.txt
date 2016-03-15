@@ -9,3 +9,6 @@ Branches are used when you want to make a new series of commits based on a new f
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you have the last known state of the remote stored locally, you don't have to deal with weird merge commands when syncing up the two trees.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+GitHub makes it really easy for anyone to add onto an existing project. Their changes can be reviewed by the creator, and added to the master if the creator deems them worthy. I can't really think of any situation where GitHub makes collaborating harder.
