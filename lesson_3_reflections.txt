@@ -12,3 +12,6 @@ If you have the last known state of the remote stored locally, you don't have to
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 GitHub makes it really easy for anyone to add onto an existing project. Their changes can be reviewed by the creator, and added to the master if the creator deems them worthy. I can't really think of any situation where GitHub makes collaborating harder.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would make changes in a separate branch whenever I felt like I needed to add or remove a feature from someone else's fork, or if I was changing an important part of my fork/project.
